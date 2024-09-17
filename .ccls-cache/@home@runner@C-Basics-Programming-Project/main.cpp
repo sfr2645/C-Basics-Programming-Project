@@ -1,3 +1,5 @@
+//This project  calculates and displays the distance the car can //travel on one tank of gas when driven in town and when driven on the //highway.
 #include <iostream>
-
-int main() { std::cout << "Hello World!\n"; }
+using namespace std;
+int main()
+{ cout << "Hello World!\n"; }
